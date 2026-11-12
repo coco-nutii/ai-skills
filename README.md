@@ -1,15 +1,16 @@
 # AI Skills
 
-免费开源的 AI Agent Skills 集合，供个人学习、修改与分发。
+A collection of practical AI Agent Skills for learning, research, and business workflows.
 
-## 已发布 Skills
+## Available Skills
 
-- [personal-ai-tutor — 六模式 AI 个人导师](personal-ai-tutor/README.md)：快速学习、情境训练、概念澄清、7天计划、知识盲区诊断、费曼讲解。
+- [personal-ai-tutor](personal-ai-tutor/README.md) — Six-mode personal AI tutor.
+- [geo-seo-suite](geo-seo-suite/README.md) — Bilingual GEO + SEO audit, AI visibility research, content optimization, schema, and growth planning toolkit.
 
-## 使用
+## Usage
 
-进入 Skill 目录，下载 `SKILL.md` 并按你的 AI 客户端要求安装。不同客户端的安装与同步方式不同；发布到 GitHub 不代表自动安装到 Muse 或 Dots。
+Open a skill folder and follow its SKILL.md. Copy the folder into the skills directory supported by your AI client. Publishing to GitHub does not automatically install it in Muse, Dots, or other agents.
 
-## 许可证
+## License
 
-各 Skill 的许可证以其目录内的 `LICENSE` 为准。
+Each skill's license is specified in its own directory.
